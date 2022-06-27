@@ -1,4 +1,4 @@
-module gitlab.enkuchat.com/backend/directus_client
+module github.com/N-Space-EnKu/directus_client
 
 go 1.18
 
